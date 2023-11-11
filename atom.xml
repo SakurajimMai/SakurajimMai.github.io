@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>SakurajimMai&#39;s Blog</title>
+  <icon>http://example.com/icon.png</icon>
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2023-11-11T11:00:00.256Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>SakurajimMai</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Linux绕过CF，爬取hanime里番视频</title>
+    <link href="http://example.com/posts/1ad5be0d.html"/>
+    <id>http://example.com/posts/1ad5be0d.html</id>
+    <published>2023-11-11T08:41:42.000Z</published>
+    <updated>2023-11-11T11:00:00.256Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;绕过CF盾&quot;&gt;&lt;a href=&quot;#绕过CF盾&quot; class=&quot;headerlink&quot; title=&quot;绕过CF盾&quot;&gt;&lt;/a&gt;绕过CF盾&lt;/h1&gt;&lt;p&gt;用cloudscraper代替requests&lt;/p&gt;
+&lt;figure class=&quot;highlight</summary>
+        
+      
+    
+    
+    
+    <category term="Learning" scheme="http://example.com/categories/Learning/"/>
+    
+    
+    <category term="Python" scheme="http://example.com/tags/Python/"/>
+    
+    <category term="Linux" scheme="http://example.com/tags/Linux/"/>
+    
+  </entry>
+  
+</feed>
