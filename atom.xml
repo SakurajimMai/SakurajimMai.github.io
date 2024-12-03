@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>SakurajimMai&#39;s Blog</title>
+  <icon>http://example.com/icon.png</icon>
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2024-12-03T16:39:19.263Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>SakurajimMai</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>SNI审查下的方法与假墙攻击分析</title>
+    <link href="http://example.com/posts/6ae29fe9.html"/>
+    <id>http://example.com/posts/6ae29fe9.html</id>
+    <published>2024-12-03T16:39:19.263Z</published>
+    <updated>2024-12-03T16:39:19.263Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;h2 id=&quot;一些专业名词的介绍&quot;&gt;&lt;a href=&quot;#一些专业名词的介绍&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Learning" scheme="http://example.com/categories/Learning/"/>
+    
+    
+    <category term="GFW" scheme="http://example.com/tags/GFW/"/>
+    
+    <category term="防火墙" scheme="http://example.com/tags/%E9%98%B2%E7%81%AB%E5%A2%99/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>一键dd系统网络重装系统</title>
+    <link href="http://example.com/posts/7ace5bb5.html"/>
+    <id>http://example.com/posts/7ace5bb5.html</id>
+    <published>2024-12-03T16:39:19.263Z</published>
+    <updated>2024-12-03T16:39:19.263Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;AutoReinstall脚本&quot;&gt;&lt;a href=&quot;#AutoReinstall脚本&quot; class=&quot;headerlink&quot; title=&quot;AutoReinstall脚本&quot;&gt;&lt;/a&gt;AutoReinstall脚本&lt;/h2&gt;&lt;figure</summary>
+        
+      
+    
+    
+    
+    <category term="Learning" scheme="http://example.com/categories/Learning/"/>
+    
+    
+    <category term="Linux" scheme="http://example.com/tags/Linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>国内服务器免备案的使用-对SNI(https)绕过方法</title>
+    <link href="http://example.com/posts/1b2b1e4b.html"/>
+    <id>http://example.com/posts/1b2b1e4b.html</id>
+    <published>2024-12-03T16:39:19.263Z</published>
+    <updated>2024-12-03T16:39:19.263Z</updated>
+    
+    
+    <summary type="html">简单来说就是域名的443被墙，SSL无法访问到网站内容。复杂的来讲，TLS是网络通讯的安全基础（HTTPS）。TLS提供的认证加密使得用户可以确定他们在与谁通讯， 并确保通讯信息不被中间人看到或篡改。 虽然TLS可以隐藏用户通讯的*内容*，但其并不能总是隐藏与用户通讯的*对象*。 比如TLS握手可以携带一个叫做加密服务器名称指示（SNI）的扩展, 这个扩展帮助客户端告诉服务器其想要访问的网站的域名。 包括中国在内的审查者利用这一扩展来检查并阻止用户访问特定的网站。</summary>
+    
+    
+    
+    <category term="Learning" scheme="http://example.com/categories/Learning/"/>
+    
+    
+    <category term="GFW" scheme="http://example.com/tags/GFW/"/>
+    
+    <category term="防火墙" scheme="http://example.com/tags/%E9%98%B2%E7%81%AB%E5%A2%99/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>规避移动墙对域名的封锁</title>
+    <link href="http://example.com/posts/64317e9c.html"/>
+    <id>http://example.com/posts/64317e9c.html</id>
+    <published>2024-12-03T16:39:19.263Z</published>
+    <updated>2024-12-03T16:39:19.263Z</updated>
+    
+    
+    <summary type="html">国外服务器有些国家是走的固定线路，比如香港走南方电信，俄罗斯走北京联通；中国移动的宽带用户如果访问这些境外网站，会增加中国移动给电信、联通的结算费用，所以移动会选择直接阻断访问，也就是墙掉域名无法访问</summary>
+    
+    
+    
+    <category term="Learning" scheme="http://example.com/categories/Learning/"/>
+    
+    
+    <category term="GFW" scheme="http://example.com/tags/GFW/"/>
+    
+    <category term="防火墙" scheme="http://example.com/tags/%E9%98%B2%E7%81%AB%E5%A2%99/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Linux绕过CF，爬取hanime里番视频</title>
+    <link href="http://example.com/posts/1ad5be0d.html"/>
+    <id>http://example.com/posts/1ad5be0d.html</id>
+    <published>2023-11-11T16:41:42.000Z</published>
+    <updated>2024-12-03T16:39:19.263Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;绕过CF盾&quot;&gt;&lt;a href=&quot;#绕过CF盾&quot; class=&quot;headerlink&quot; title=&quot;绕过CF盾&quot;&gt;&lt;/a&gt;绕过CF盾&lt;/h1&gt;&lt;p&gt;用cloudscraper代替requests&lt;/p&gt;
+&lt;figure class=&quot;highlight</summary>
+        
+      
+    
+    
+    
+    <category term="Learning" scheme="http://example.com/categories/Learning/"/>
+    
+    
+    <category term="Python" scheme="http://example.com/tags/Python/"/>
+    
+    <category term="Linux" scheme="http://example.com/tags/Linux/"/>
+    
+  </entry>
+  
+</feed>
