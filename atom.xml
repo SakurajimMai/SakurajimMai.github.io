@@ -102,6 +102,33 @@
   </entry>
   
   <entry>
+    <title>Linux 配置 Samba 服务教程</title>
+    <link href="https://blog.ixacg.com/posts/17abc858.html"/>
+    <id>https://blog.ixacg.com/posts/17abc858.html</id>
+    <published>2024-12-08T16:00:00.000Z</published>
+    <updated>2025-04-09T01:32:43.782Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;安装samba&quot;&gt;&lt;a href=&quot;#安装samba&quot; class=&quot;headerlink&quot; title=&quot;安装samba&quot;&gt;&lt;/a&gt;安装samba&lt;/h2&gt;&lt;figure class=&quot;highlight plaintext&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td</summary>
+        
+      
+    
+    
+    
+    <category term="Learning" scheme="https://blog.ixacg.com/categories/Learning/"/>
+    
+    
+    <category term="Linux" scheme="https://blog.ixacg.com/tags/Linux/"/>
+    
+    <category term="Samba" scheme="https://blog.ixacg.com/tags/Samba/"/>
+    
+  </entry>
+  
+  <entry>
     <title>SNI审查下的方法与假墙攻击分析</title>
     <link href="https://blog.ixacg.com/posts/6ae29fe9.html"/>
     <id>https://blog.ixacg.com/posts/6ae29fe9.html</id>
@@ -197,33 +224,6 @@
   </entry>
   
   <entry>
-    <title>Linux 配置 Samba 服务教程</title>
-    <link href="https://blog.ixacg.com/posts/17abc858.html"/>
-    <id>https://blog.ixacg.com/posts/17abc858.html</id>
-    <published>2024-12-08T16:00:00.000Z</published>
-    <updated>2025-04-09T01:32:43.782Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h2 id=&quot;安装samba&quot;&gt;&lt;a href=&quot;#安装samba&quot; class=&quot;headerlink&quot; title=&quot;安装samba&quot;&gt;&lt;/a&gt;安装samba&lt;/h2&gt;&lt;figure class=&quot;highlight plaintext&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td</summary>
-        
-      
-    
-    
-    
-    <category term="Learning" scheme="https://blog.ixacg.com/categories/Learning/"/>
-    
-    
-    <category term="Linux" scheme="https://blog.ixacg.com/tags/Linux/"/>
-    
-    <category term="Samba" scheme="https://blog.ixacg.com/tags/Samba/"/>
-    
-  </entry>
-  
-  <entry>
     <title>Linux绕过CF，爬取hanime里番视频</title>
     <link href="https://blog.ixacg.com/posts/1ad5be0d.html"/>
     <id>https://blog.ixacg.com/posts/1ad5be0d.html</id>
@@ -245,9 +245,9 @@
     <category term="Learning" scheme="https://blog.ixacg.com/categories/Learning/"/>
     
     
-    <category term="Python" scheme="https://blog.ixacg.com/tags/Python/"/>
-    
     <category term="Linux" scheme="https://blog.ixacg.com/tags/Linux/"/>
+    
+    <category term="Python" scheme="https://blog.ixacg.com/tags/Python/"/>
     
   </entry>
   
