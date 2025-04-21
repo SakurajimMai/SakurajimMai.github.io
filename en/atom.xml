@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>SakurajimMai&#39;s Blog</title>
+  <icon>https://blog.ixacg.com/en/icon.png</icon>
+  
+  <link href="https://blog.ixacg.com/en/atom.xml" rel="self"/>
+  
+  <link href="https://blog.ixacg.com/en/"/>
+  <updated>2025-04-21T05:28:04.001Z</updated>
+  <id>https://blog.ixacg.com/en/</id>
+  
+  <author>
+    <name>SakurajimMai</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hysteria2|第二代hysteria节点搭建教程</title>
+    <link href="https://blog.ixacg.com/en/posts/2025/04/21/bceca0849b69.html"/>
+    <id>https://blog.ixacg.com/en/posts/2025/04/21/bceca0849b69.html</id>
+    <published>2025-04-21T03:01:49.000Z</published>
+    <updated>2025-04-21T05:28:04.001Z</updated>
+    
+    
+    <summary type="html">Hysteria2 是一个功能丰富的，专为恶劣网络环境进行优化的网络工具（双边加速），比如卫星网络、拥挤的公共 Wi-Fi、在**中国连接国外服务器**等。 基于修改版的 QUIC 协议</summary>
+    
+    
+    
+    <category term="Linux" scheme="https://blog.ixacg.com/en/categories/Linux/"/>
+    
+    <category term="科学上网" scheme="https://blog.ixacg.com/en/categories/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/"/>
+    
+    
+    <category term="代理" scheme="https://blog.ixacg.com/en/tags/%E4%BB%A3%E7%90%86/"/>
+    
+    <category term="hysteria" scheme="https://blog.ixacg.com/en/tags/hysteria/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>自建免备案防偷 Tailscale 国内中继（DERP）教程</title>
+    <link href="https://blog.ixacg.com/en/posts/2025/04/19/8a865267db07.html"/>
+    <id>https://blog.ixacg.com/en/posts/2025/04/19/8a865267db07.html</id>
+    <published>2025-04-19T03:07:54.000Z</published>
+    <updated>2025-04-21T03:08:14.000Z</updated>
+    
+    
+    <summary type="html">在默认情况下，Tailscale 官方已经提供了环大陆的官方 DERP 服务,但是由于中国大陆的网络连通性等问题，官方并未提供大陆的 DERP 节点。为了确保大陆的打通成功率，我们需要自建一个 DERP 服务，来帮助我们 “打洞”。</summary>
+    
+    
+    
+    <category term="Learning" scheme="https://blog.ixacg.com/en/categories/Learning/"/>
+    
+    
+    <category term="Tailscale" scheme="https://blog.ixacg.com/en/tags/Tailscale/"/>
+    
+    <category term="内网穿透" scheme="https://blog.ixacg.com/en/tags/%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F/"/>
+    
+    <category term="局域网" scheme="https://blog.ixacg.com/en/tags/%E5%B1%80%E5%9F%9F%E7%BD%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>一步到位的全自动追番教程</title>
+    <link href="https://blog.ixacg.com/en/posts/2024/12/26/70b1e51ef374.html"/>
+    <id>https://blog.ixacg.com/en/posts/2024/12/26/70b1e51ef374.html</id>
+    <published>2024-12-25T16:00:00.000Z</published>
+    <updated>2025-04-21T03:06:58.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;面对影视平台的各种广告，选择了自己搭建平台看剧，可以实现自动追番，高清画质，全平台播放，与朋友一起共享。&lt;/p&gt;
+&lt;h2 id=&quot;准备&quot;&gt;&lt;a href=&quot;#准备&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Learning" scheme="https://blog.ixacg.com/en/categories/Learning/"/>
+    
+    
+    <category term="Linux" scheme="https://blog.ixacg.com/en/tags/Linux/"/>
+    
+    <category term="MoviePilot" scheme="https://blog.ixacg.com/en/tags/MoviePilot/"/>
+    
+    <category term="Emby" scheme="https://blog.ixacg.com/en/tags/Emby/"/>
+    
+    <category term="qbittorrent" scheme="https://blog.ixacg.com/en/tags/qbittorrent/"/>
+    
+    <category term="Docker" scheme="https://blog.ixacg.com/en/tags/Docker/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>DNS分流解锁流媒体</title>
+    <link href="https://blog.ixacg.com/en/posts/2024/12/25/0678ee7f24a0.html"/>
+    <id>https://blog.ixacg.com/en/posts/2024/12/25/0678ee7f24a0.html</id>
+    <published>2024-12-24T16:00:00.000Z</published>
+    <updated>2025-04-21T03:09:26.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;首先感谢&lt;a href=&quot;https://app.alice.ws/streaming/console&quot;&gt;Alice&lt;/a&gt;大善人提供的免费DNS服务，个人用户能够免费添加5个IP，可以用了解锁流媒体和AI服务.&lt;/p&gt;
+&lt;h2 id=&quot;v2bx配置DNS分流&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="Learning" scheme="https://blog.ixacg.com/en/categories/Learning/"/>
+    
+    
+    <category term="Linux" scheme="https://blog.ixacg.com/en/tags/Linux/"/>
+    
+    <category term="DNS" scheme="https://blog.ixacg.com/en/tags/DNS/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Linux 配置 Samba 服务教程</title>
+    <link href="https://blog.ixacg.com/en/posts/2024/12/09/bfb67f9f5ecf.html"/>
+    <id>https://blog.ixacg.com/en/posts/2024/12/09/bfb67f9f5ecf.html</id>
+    <published>2024-12-08T16:00:00.000Z</published>
+    <updated>2025-04-21T03:09:52.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;安装samba&quot;&gt;&lt;a href=&quot;#安装samba&quot; class=&quot;headerlink&quot; title=&quot;安装samba&quot;&gt;&lt;/a&gt;安装samba&lt;/h2&gt;&lt;figure class=&quot;highlight plaintext&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td</summary>
+        
+      
+    
+    
+    
+    <category term="Learning" scheme="https://blog.ixacg.com/en/categories/Learning/"/>
+    
+    
+    <category term="Linux" scheme="https://blog.ixacg.com/en/tags/Linux/"/>
+    
+    <category term="Samba" scheme="https://blog.ixacg.com/en/tags/Samba/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>SNI审查下的方法与假墙攻击分析</title>
+    <link href="https://blog.ixacg.com/en/posts/2024/12/09/dd233cf48b6d.html"/>
+    <id>https://blog.ixacg.com/en/posts/2024/12/09/dd233cf48b6d.html</id>
+    <published>2024-12-08T16:00:00.000Z</published>
+    <updated>2025-04-21T03:10:29.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;h2 id=&quot;一些专业名词的介绍&quot;&gt;&lt;a href=&quot;#一些专业名词的介绍&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Learning" scheme="https://blog.ixacg.com/en/categories/Learning/"/>
+    
+    
+    <category term="GFW" scheme="https://blog.ixacg.com/en/tags/GFW/"/>
+    
+    <category term="防火墙" scheme="https://blog.ixacg.com/en/tags/%E9%98%B2%E7%81%AB%E5%A2%99/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>一键dd系统网络重装系统</title>
+    <link href="https://blog.ixacg.com/en/posts/2024/12/09/df70a5b9e90c.html"/>
+    <id>https://blog.ixacg.com/en/posts/2024/12/09/df70a5b9e90c.html</id>
+    <published>2024-12-08T16:00:00.000Z</published>
+    <updated>2025-04-21T03:07:12.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;AutoReinstall脚本&quot;&gt;&lt;a href=&quot;#AutoReinstall脚本&quot; class=&quot;headerlink&quot; title=&quot;AutoReinstall脚本&quot;&gt;&lt;/a&gt;AutoReinstall脚本&lt;/h2&gt;&lt;figure</summary>
+        
+      
+    
+    
+    
+    <category term="Learning" scheme="https://blog.ixacg.com/en/categories/Learning/"/>
+    
+    
+    <category term="Linux" scheme="https://blog.ixacg.com/en/tags/Linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>国内服务器免备案的使用-对SNI(https)绕过方法</title>
+    <link href="https://blog.ixacg.com/en/posts/2024/12/09/e1f4b699bbe3.html"/>
+    <id>https://blog.ixacg.com/en/posts/2024/12/09/e1f4b699bbe3.html</id>
+    <published>2024-12-08T16:00:00.000Z</published>
+    <updated>2025-04-21T03:06:39.000Z</updated>
+    
+    
+    <summary type="html">简单来说就是域名的443被墙，SSL无法访问到网站内容。复杂的来讲，TLS是网络通讯的安全基础（HTTPS）。TLS提供的认证加密使得用户可以确定他们在与谁通讯， 并确保通讯信息不被中间人看到或篡改。 虽然TLS可以隐藏用户通讯的*内容*，但其并不能总是隐藏与用户通讯的*对象*。 比如TLS握手可以携带一个叫做加密服务器名称指示（SNI）的扩展, 这个扩展帮助客户端告诉服务器其想要访问的网站的域名。 包括中国在内的审查者利用这一扩展来检查并阻止用户访问特定的网站。</summary>
+    
+    
+    
+    <category term="Learning" scheme="https://blog.ixacg.com/en/categories/Learning/"/>
+    
+    
+    <category term="GFW" scheme="https://blog.ixacg.com/en/tags/GFW/"/>
+    
+    <category term="防火墙" scheme="https://blog.ixacg.com/en/tags/%E9%98%B2%E7%81%AB%E5%A2%99/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>规避移动墙对域名的封锁</title>
+    <link href="https://blog.ixacg.com/en/posts/2024/12/09/0734eb280453.html"/>
+    <id>https://blog.ixacg.com/en/posts/2024/12/09/0734eb280453.html</id>
+    <published>2024-12-08T16:00:00.000Z</published>
+    <updated>2025-04-21T03:06:19.000Z</updated>
+    
+    
+    <summary type="html">国外服务器有些国家是走的固定线路，比如香港走南方电信，俄罗斯走北京联通；中国移动的宽带用户如果访问这些境外网站，会增加中国移动给电信、联通的结算费用，所以移动会选择直接阻断访问，也就是墙掉域名无法访问</summary>
+    
+    
+    
+    <category term="Learning" scheme="https://blog.ixacg.com/en/categories/Learning/"/>
+    
+    
+    <category term="GFW" scheme="https://blog.ixacg.com/en/tags/GFW/"/>
+    
+    <category term="防火墙" scheme="https://blog.ixacg.com/en/tags/%E9%98%B2%E7%81%AB%E5%A2%99/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Linux绕过CF，爬取hanime里番视频</title>
+    <link href="https://blog.ixacg.com/en/posts/2023/11/11/d7b7f3200952.html"/>
+    <id>https://blog.ixacg.com/en/posts/2023/11/11/d7b7f3200952.html</id>
+    <published>2023-11-11T08:41:42.000Z</published>
+    <updated>2025-04-21T03:10:14.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;绕过CF盾&quot;&gt;&lt;a href=&quot;#绕过CF盾&quot; class=&quot;headerlink&quot; title=&quot;绕过CF盾&quot;&gt;&lt;/a&gt;绕过CF盾&lt;/h1&gt;&lt;p&gt;用cloudscraper代替requests&lt;/p&gt;
+&lt;figure class=&quot;highlight</summary>
+        
+      
+    
+    
+    
+    <category term="Learning" scheme="https://blog.ixacg.com/en/categories/Learning/"/>
+    
+    
+    <category term="Linux" scheme="https://blog.ixacg.com/en/tags/Linux/"/>
+    
+    <category term="Python" scheme="https://blog.ixacg.com/en/tags/Python/"/>
+    
+  </entry>
+  
+</feed>
