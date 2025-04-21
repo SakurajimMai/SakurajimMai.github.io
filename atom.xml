@@ -6,7 +6,7 @@
   <link href="https://blog.ixacg.com/atom.xml" rel="self"/>
   
   <link href="https://blog.ixacg.com/"/>
-  <updated>2025-04-21T03:23:33.655Z</updated>
+  <updated>2025-04-21T05:10:55.952Z</updated>
   <id>https://blog.ixacg.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://blog.ixacg.com/2025/04/21/bceca0849b69.html"/>
     <id>https://blog.ixacg.com/2025/04/21/bceca0849b69.html</id>
     <published>2025-04-21T03:01:49.000Z</published>
-    <updated>2025-04-21T03:23:33.655Z</updated>
+    <updated>2025-04-21T05:10:55.952Z</updated>
     
     
     <summary type="html">Hysteria2 是一个功能丰富的，专为恶劣网络环境进行优化的网络工具（双边加速），比如卫星网络、拥挤的公共 Wi-Fi、在**中国连接国外服务器**等。 基于修改版的 QUIC 协议</summary>
@@ -41,10 +41,10 @@
   
   <entry>
     <title>自建免备案防偷 Tailscale 国内中继（DERP）教程</title>
-    <link href="https://blog.ixacg.com/2025/04/10/4b3186e7b4bc.html"/>
-    <id>https://blog.ixacg.com/2025/04/10/4b3186e7b4bc.html</id>
-    <published>2025-04-10T07:45:54.232Z</published>
-    <updated>2025-04-10T08:25:50.833Z</updated>
+    <link href="https://blog.ixacg.com/2025/04/19/8a865267db07.html"/>
+    <id>https://blog.ixacg.com/2025/04/19/8a865267db07.html</id>
+    <published>2025-04-19T03:07:54.000Z</published>
+    <updated>2025-04-21T03:08:14.000Z</updated>
     
     
     <summary type="html">在默认情况下，Tailscale 官方已经提供了环大陆的官方 DERP 服务,但是由于中国大陆的网络连通性等问题，官方并未提供大陆的 DERP 节点。为了确保大陆的打通成功率，我们需要自建一个 DERP 服务，来帮助我们 “打洞”。</summary>
@@ -101,7 +101,7 @@
     <link href="https://blog.ixacg.com/2024/12/25/0678ee7f24a0.html"/>
     <id>https://blog.ixacg.com/2024/12/25/0678ee7f24a0.html</id>
     <published>2024-12-24T16:00:00.000Z</published>
-    <updated>2025-04-10T07:56:30.364Z</updated>
+    <updated>2025-04-21T03:09:26.000Z</updated>
     
     
       
@@ -129,7 +129,7 @@
     <link href="https://blog.ixacg.com/2024/12/09/bfb67f9f5ecf.html"/>
     <id>https://blog.ixacg.com/2024/12/09/bfb67f9f5ecf.html</id>
     <published>2024-12-08T16:00:00.000Z</published>
-    <updated>2025-04-09T01:32:43.782Z</updated>
+    <updated>2025-04-21T03:09:52.000Z</updated>
     
     
       
@@ -156,7 +156,7 @@
     <link href="https://blog.ixacg.com/2024/12/09/dd233cf48b6d.html"/>
     <id>https://blog.ixacg.com/2024/12/09/dd233cf48b6d.html</id>
     <published>2024-12-08T16:00:00.000Z</published>
-    <updated>2025-04-10T07:59:30.042Z</updated>
+    <updated>2025-04-21T03:10:29.000Z</updated>
     
     
       
@@ -184,7 +184,7 @@
     <link href="https://blog.ixacg.com/2024/12/09/df70a5b9e90c.html"/>
     <id>https://blog.ixacg.com/2024/12/09/df70a5b9e90c.html</id>
     <published>2024-12-08T16:00:00.000Z</published>
-    <updated>2025-04-10T07:55:33.304Z</updated>
+    <updated>2025-04-21T03:07:12.000Z</updated>
     
     
       
@@ -209,7 +209,7 @@
     <link href="https://blog.ixacg.com/2024/12/09/e1f4b699bbe3.html"/>
     <id>https://blog.ixacg.com/2024/12/09/e1f4b699bbe3.html</id>
     <published>2024-12-08T16:00:00.000Z</published>
-    <updated>2025-04-10T07:52:32.302Z</updated>
+    <updated>2025-04-21T03:06:39.000Z</updated>
     
     
     <summary type="html">简单来说就是域名的443被墙，SSL无法访问到网站内容。复杂的来讲，TLS是网络通讯的安全基础（HTTPS）。TLS提供的认证加密使得用户可以确定他们在与谁通讯， 并确保通讯信息不被中间人看到或篡改。 虽然TLS可以隐藏用户通讯的*内容*，但其并不能总是隐藏与用户通讯的*对象*。 比如TLS握手可以携带一个叫做加密服务器名称指示（SNI）的扩展, 这个扩展帮助客户端告诉服务器其想要访问的网站的域名。 包括中国在内的审查者利用这一扩展来检查并阻止用户访问特定的网站。</summary>
@@ -230,7 +230,7 @@
     <link href="https://blog.ixacg.com/2024/12/09/0734eb280453.html"/>
     <id>https://blog.ixacg.com/2024/12/09/0734eb280453.html</id>
     <published>2024-12-08T16:00:00.000Z</published>
-    <updated>2025-04-10T07:50:59.154Z</updated>
+    <updated>2025-04-21T03:06:19.000Z</updated>
     
     
     <summary type="html">国外服务器有些国家是走的固定线路，比如香港走南方电信，俄罗斯走北京联通；中国移动的宽带用户如果访问这些境外网站，会增加中国移动给电信、联通的结算费用，所以移动会选择直接阻断访问，也就是墙掉域名无法访问</summary>
@@ -251,7 +251,7 @@
     <link href="https://blog.ixacg.com/2023/11/11/d7b7f3200952.html"/>
     <id>https://blog.ixacg.com/2023/11/11/d7b7f3200952.html</id>
     <published>2023-11-11T08:41:42.000Z</published>
-    <updated>2025-04-10T07:57:44.738Z</updated>
+    <updated>2025-04-21T03:10:14.000Z</updated>
     
     
       
